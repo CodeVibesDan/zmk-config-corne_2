@@ -23,7 +23,7 @@ layers:
   - J
   - K
   - L
-  - ;
+  - ':'
   - ''''
   - LEFT CONTROL
   - Z
@@ -56,7 +56,7 @@ layers:
   - '9'
   - '0'
   - '>'
-  - {t: ▽, type: trans}
+  - ;
   - '!'
   - '@'
   - '#'

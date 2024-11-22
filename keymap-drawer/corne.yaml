@@ -97,7 +97,7 @@ layers:
   - Alt+ DOWN
   - Alt+ UP
   - Alt+ RIGHT
-  - {t: ▽, type: trans}
+  - Sft+Ctl+ P
   - {t: ▽, type: trans}
   - ESC
   - {t: ▽, type: trans}

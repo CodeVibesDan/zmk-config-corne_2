@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - {t: DEL, h: '-'}
+  - BACKSPACE
   - LSHIFT
   - A
   - S
@@ -68,10 +68,10 @@ layers:
   - (
   - )
   - '"'
-  - {t: ▽, type: trans}
+  - '|'
   - '`'
   - '~'
-  - '|'
+  - '-'
   - '='
   - +
   - '['

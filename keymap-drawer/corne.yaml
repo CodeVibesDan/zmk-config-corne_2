@@ -124,7 +124,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - extended
   - {t: ▽, type: trans}
   - Ctl+Gui+ SPACE
   - {type: held}

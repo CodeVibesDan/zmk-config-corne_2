@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - BACKSPACE
+  - {t: BACKSPACE, h: DEL}
   - LSHIFT
   - A
   - S
@@ -25,7 +25,7 @@ layers:
   - L
   - ':'
   - ''''
-  - LEFT CONTROL
+  - LCTRL
   - Z
   - X
   - C
@@ -85,7 +85,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - RIGHT SHIFT
   nav:
   - Gui+Ctl+ TAB
   - {t: ▽, type: trans}

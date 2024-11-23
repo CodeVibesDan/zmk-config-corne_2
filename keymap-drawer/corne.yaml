@@ -1,6 +1,6 @@
-layout: {qmk_keyboard: corne_rotated, qmk_layout: LAYOUT_split_3x6_3}
+layout: {qmk_keyboard: corne_rotated, layout_name: LAYOUT_split_3x6_3}
 layers:
-  base:
+  BASE:
   - {t: ESC, h: Ctl+Sft+ LALT}
   - Q
   - W
@@ -38,12 +38,12 @@ layers:
   - /
   - LEFT ALT
   - LEFT GUI
-  - symbols
+  - SYMBOLS
   - SPACE
   - BACKSPACE
-  - nav
+  - NAV
   - ENTER
-  symbols:
+  SYMBOLS:
   - <
   - '1'
   - '2'
@@ -70,7 +70,7 @@ layers:
   - '"'
   - '|'
   - '`'
-  - '~'
+  - TAB
   - '-'
   - '='
   - +
@@ -80,13 +80,13 @@ layers:
   - '}'
   - \
   - '?'
-  - {t: ▽, type: trans}
+  - LEFT ALT
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - RIGHT SHIFT
-  nav:
+  NAV:
   - Gui+Ctl+ TAB
   - {t: ▽, type: trans}
   - Gui+ [
@@ -124,12 +124,12 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - extended
+  - EXT
   - {t: ▽, type: trans}
   - Ctl+Gui+ SPACE
   - {type: held}
   - {t: ▽, type: trans}
-  extended:
+  EXT:
   - {t: ▽, type: trans}
   - F1
   - F2

@@ -84,10 +84,10 @@
         symbols_layer {
             label = "SYMBOLS";
             bindings = <
-&kp LESS_THAN  &kp N1     &kp N2     &kp N3     &kp N4     &kp N5       &kp N6            &kp N7             &kp N8                &kp N9                 &kp N0         &kp GREATER_THAN
-&kp CARET      &kp EXCL   &kp AT     &kp HASH   &kp DLLR   &kp PRCNT    &kp AMPERSAND     &kp ASTERISK       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMICOLON  &kp DOUBLE_QUOTES
-&kp PIPE       &kp GRAVE  &kp TILDE  &kp MINUS  &kp EQUAL  &kp PLUS     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp BACKSLASH  &kp QUESTION
-                                     &trans     &trans     &trans       &trans            &trans             &kp RIGHT_SHIFT
+&kp LESS_THAN  &kp N1     &kp N2   &kp N3        &kp N4     &kp N5       &kp N6            &kp N7             &kp N8                &kp N9                 &kp N0         &kp GREATER_THAN
+&kp CARET      &kp EXCL   &kp AT   &kp HASH      &kp DLLR   &kp PRCNT    &kp AMPERSAND     &kp ASTERISK       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMICOLON  &kp DOUBLE_QUOTES
+&kp PIPE       &kp GRAVE  &kp TAB  &kp MINUS     &kp EQUAL  &kp PLUS     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp BACKSLASH  &kp QUESTION
+                                   &kp LEFT_ALT  &trans     &trans       &trans            &trans             &kp RIGHT_SHIFT
             >;
         };
 

@@ -46,24 +46,24 @@ layers:
   - {t: ▽, type: trans}
   - RIGHT SHIFT
   NAV:
-  - Gui+Ctl+ TAB
   - {t: ▽, type: trans}
-  - Gui+ [
-  - Sft+ TAB
-  - TAB
-  - Gui+ ]
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - SCROLL UP
+  - PG UP
+  - HOME
   - Alt+ LEFT
   - Alt+ DOWN
   - Alt+ UP
   - Alt+ RIGHT
   - Sft+Ctl+ P
   - {t: ▽, type: trans}
-  - ESC
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - SCROLL DOWN
-  - SCROLL UP
-  - HOME
+  - PG DN
+  - END
   - LEFT
   - DOWN
   - UP
@@ -73,9 +73,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - PG DN
-  - PG UP
-  - END
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - Gui+ LEFT
   - Gui+ DOWN
   - Gui+ UP

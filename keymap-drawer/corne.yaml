@@ -1,7 +1,7 @@
 layout: {qmk_keyboard: corne_rotated, layout_name: LAYOUT_split_3x6_3}
 layers:
-  BASE: [ESCAPE, Q, W, E, R, T, Y, U, I, O, P, BACKSPACE, TAB, A, S, D, F, G, H, J, K, L, ':', '''', LEFT SHIFT, Z, X, C, V, B, N, M, ',', ., /, LEFT ALT, LEFT GUI,
-    SYMBOLS, SPACE, BACKSPACE, NAV, ENTER]
+  BASE: [ESCAPE, Q, W, E, R, T, Y, U, I, O, P, BACKSPACE, TAB, A, S, D, F, G, H, J, K, L, ':', '''', LEFT SHIFT, Z, X, C, V, B, N, M, ',', ., /, RIGHT SHIFT, LCTRL,
+    SYMBOLS, SPACE, ENTER, NAV, RIGHT ALT]
   SYMBOLS:
   - <
   - '1'

@@ -83,7 +83,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - EXT
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Ctl+Gui+ SPACE
   - {type: held}

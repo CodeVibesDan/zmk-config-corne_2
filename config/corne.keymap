@@ -97,7 +97,7 @@
 &trans  &trans  &trans  &kp K_SCROLL_UP    &kp PG_UP  &kp HOME    &kp LA(LEFT)       &kp LA(DOWN)  &kp LA(UP)  &kp LA(RIGHT)  &kp LS(LC(P))  &trans
 &trans  &trans  &trans  &kp K_SCROLL_DOWN  &kp PG_DN  &kp END     &kp LEFT           &kp DOWN      &kp UP      &kp RIGHT      &trans         &trans
 &trans  &trans  &trans  &trans             &trans     &trans      &kp LG(LEFT)       &kp LG(DOWN)  &kp LG(UP)  &kp LG(RIGHT)  &trans         &trans
-                        &trans             &mo 3      &trans      &kp LC(LG(SPACE))  &trans        &trans
+                        &trans             &trans     &trans      &kp LC(LG(SPACE))  &trans        &trans
             >;
         };
 

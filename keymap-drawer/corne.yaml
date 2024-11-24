@@ -42,7 +42,7 @@ layers:
   - LEFT ALT
   - {type: held}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT WIN
   - {t: ▽, type: trans}
   - RIGHT SHIFT
   NAV:
